@@ -28,6 +28,7 @@ main {
     height: 100px;
     background-color: #333;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 
@@ -37,7 +38,7 @@ main {
     clear:both;
 }
 
-.sfondo {
+.row {
     background-color: #333;
 }
 
@@ -46,7 +47,7 @@ main {
     width: 20%;
     height: 500px;
     margin-top: 20px;
-    
+    margin-bottom: 20px;
 }
 
 .sezione2{
@@ -54,6 +55,7 @@ main {
     width: 60%;
     height: 500px;
     margin-top: 20px;
+    margin-bottom: 20px;
     padding-right: 20px;
     padding-left: 20px;
 }
