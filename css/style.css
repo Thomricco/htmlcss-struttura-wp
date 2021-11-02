@@ -26,9 +26,9 @@ main {
 .bar {
     width: 100%;
     height: 100px;
-    background-color: #333;
+    background-color: rgb(204, 171, 171);
     margin-top: 20px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px;*/
 }
 
 
@@ -38,7 +38,7 @@ main {
     clear:both;
 }
 
-.row {
+.container2 {
     background-color: #333;
 }
 
